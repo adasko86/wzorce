@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{093BB631-9055-44A9-88EF-49C0F1E1A0BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasyczny Builder", "Klasyczny Builder\Klasyczny Builder.csproj", "{EF4C5BFB-BF07-4648-8271-13D1B1332E9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluent Builder", "Fluence Builder\Fluent Builder.csproj", "{19E60339-DA20-434D-896F-37A708E8A950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093BB631-9055-44A9-88EF-49C0F1E1A0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093BB631-9055-44A9-88EF-49C0F1E1A0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093BB631-9055-44A9-88EF-49C0F1E1A0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093BB631-9055-44A9-88EF-49C0F1E1A0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4C5BFB-BF07-4648-8271-13D1B1332E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4C5BFB-BF07-4648-8271-13D1B1332E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4C5BFB-BF07-4648-8271-13D1B1332E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4C5BFB-BF07-4648-8271-13D1B1332E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E60339-DA20-434D-896F-37A708E8A950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E60339-DA20-434D-896F-37A708E8A950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E60339-DA20-434D-896F-37A708E8A950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E60339-DA20-434D-896F-37A708E8A950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

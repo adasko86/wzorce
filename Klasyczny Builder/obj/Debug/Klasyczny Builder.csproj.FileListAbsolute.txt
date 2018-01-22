@@ -1,0 +1,6 @@
+c:\Users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Klasyczny Builder\bin\Debug\Klasyczny Builder.exe.config
+c:\Users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Klasyczny Builder\obj\Debug\Klasyczny Builder.csprojResolveAssemblyReference.cache
+c:\Users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Klasyczny Builder\bin\Debug\Klasyczny Builder.exe
+c:\Users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Klasyczny Builder\bin\Debug\Klasyczny Builder.pdb
+c:\Users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Klasyczny Builder\obj\Debug\Klasyczny Builder.exe
+c:\Users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Klasyczny Builder\obj\Debug\Klasyczny Builder.pdb

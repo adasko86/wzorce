@@ -1,0 +1,6 @@
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\bin\Debug\Wzorce - Builder.exe.config
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\bin\Debug\Wzorce - Builder.exe
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\bin\Debug\Wzorce - Builder.pdb
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\obj\Debug\Wzorce - Builder.csprojResolveAssemblyReference.cache
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\obj\Debug\Wzorce - Builder.exe
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\obj\Debug\Wzorce - Builder.pdb

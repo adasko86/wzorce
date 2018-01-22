@@ -1,0 +1,27 @@
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\bin\Debug\Wzorce - Builder.exe.config
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\obj\Debug\Wzorce - Builder.exe
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\obj\Debug\Wzorce - Builder.pdb
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\obj\Debug\Fluent Builder.csprojResolveAssemblyReference.cache
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\bin\Debug\Wzorce - Builder.exe
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\bin\Debug\Wzorce - Builder.pdb
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\bin\Debug\Fluency.dll
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\bin\Debug\Fluency.pdb
+c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Wzorce - Builder\bin\Debug\Fluency.xml
+C:\Wzorce\Wzorce - Builder\bin\Debug\Fluency.dll
+C:\Wzorce\Wzorce - Builder\bin\Debug\Fluency.pdb
+C:\Wzorce\Wzorce - Builder\bin\Debug\Fluency.xml
+C:\Wzorce\Wzorce - Builder\obj\Debug\Fluent Builder.csprojResolveAssemblyReference.cache
+C:\Wzorce\Wzorce - Builder\bin\Debug\Fluent Builder.exe.config
+C:\Wzorce\Wzorce - Builder\bin\Debug\Fluent Builder.exe
+C:\Wzorce\Wzorce - Builder\bin\Debug\Fluent Builder.pdb
+C:\Wzorce\Wzorce - Builder\obj\Debug\Fluent Builder.exe
+C:\Wzorce\Wzorce - Builder\obj\Debug\Fluent Builder.pdb
+C:\Wzorce\Fluence Builder\bin\Debug\Fluent Builder.exe.config
+C:\Wzorce\Fluence Builder\obj\Debug\Fluent Builder.exe
+C:\Wzorce\Fluence Builder\obj\Debug\Fluent Builder.pdb
+C:\Wzorce\Fluence Builder\bin\Debug\Fluent Builder.exe
+C:\Wzorce\Fluence Builder\bin\Debug\Fluent Builder.pdb
+C:\Wzorce\Fluence Builder\bin\Debug\Fluency.dll
+C:\Wzorce\Fluence Builder\bin\Debug\Fluency.pdb
+C:\Wzorce\Fluence Builder\bin\Debug\Fluency.xml
+C:\Wzorce\Fluence Builder\obj\Debug\Fluent Builder.csprojResolveAssemblyReference.cache
