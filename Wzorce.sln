@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasyczny Builder", "Klasyc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluent Builder", "Fluence Builder\Fluent Builder.csproj", "{19E60339-DA20-434D-896F-37A708E8A950}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Factory", "Abstract Factory\Abstract Factory.csproj", "{AA2D37D4-57A4-490C-ACE7-0312742B127F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{FF6558C3-EF03-4671-8320-43E40E52C4C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{19E60339-DA20-434D-896F-37A708E8A950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E60339-DA20-434D-896F-37A708E8A950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19E60339-DA20-434D-896F-37A708E8A950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2D37D4-57A4-490C-ACE7-0312742B127F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2D37D4-57A4-490C-ACE7-0312742B127F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2D37D4-57A4-490C-ACE7-0312742B127F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2D37D4-57A4-490C-ACE7-0312742B127F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6558C3-EF03-4671-8320-43E40E52C4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6558C3-EF03-4671-8320-43E40E52C4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6558C3-EF03-4671-8320-43E40E52C4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6558C3-EF03-4671-8320-43E40E52C4C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

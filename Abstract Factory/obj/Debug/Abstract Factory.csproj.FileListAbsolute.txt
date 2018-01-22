@@ -1,0 +1,6 @@
+C:\wzorce\Abstract Factory\bin\Debug\Abstract Factory.exe.config
+C:\wzorce\Abstract Factory\bin\Debug\Abstract Factory.exe
+C:\wzorce\Abstract Factory\bin\Debug\Abstract Factory.pdb
+C:\wzorce\Abstract Factory\obj\Debug\Abstract Factory.csprojResolveAssemblyReference.cache
+C:\wzorce\Abstract Factory\obj\Debug\Abstract Factory.exe
+C:\wzorce\Abstract Factory\obj\Debug\Abstract Factory.pdb
