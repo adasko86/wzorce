@@ -1,6 +1,6 @@
 Pierwsze 3 wzorce:
 
-*Fluency Builder
+*Fluency Builder</br>
 *Builder - klasyczny
 
 *Singleton
