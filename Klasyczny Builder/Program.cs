@@ -16,6 +16,13 @@ namespace Klasyczny_Builder
 
             Car car = carDirector.getCar();
             Console.WriteLine(car);
+
+            carBuilder = new MaluchBuilder();
+            carDirector = new CarDirector(carBuilder);
+            carDirector.makeCar();
+
+            car = carDirector.getCar();
+            Console.WriteLine(car);
             Console.Read();
         }
     }

@@ -4,3 +4,9 @@ c:\Users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\K
 c:\Users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Klasyczny Builder\bin\Debug\Klasyczny Builder.pdb
 c:\Users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Klasyczny Builder\obj\Debug\Klasyczny Builder.exe
 c:\Users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\Klasyczny Builder\obj\Debug\Klasyczny Builder.pdb
+C:\wzorceRepo\Klasyczny Builder\bin\Debug\Klasyczny Builder.exe.config
+C:\wzorceRepo\Klasyczny Builder\obj\Debug\Klasyczny Builder.exe
+C:\wzorceRepo\Klasyczny Builder\obj\Debug\Klasyczny Builder.pdb
+C:\wzorceRepo\Klasyczny Builder\bin\Debug\Klasyczny Builder.exe
+C:\wzorceRepo\Klasyczny Builder\bin\Debug\Klasyczny Builder.pdb
+C:\wzorceRepo\Klasyczny Builder\obj\Debug\Klasyczny Builder.csprojResolveAssemblyReference.cache

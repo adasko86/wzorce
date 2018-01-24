@@ -7,3 +7,6 @@ C:\wzorce\Adapter\bin\Debug\Fluency.pdb
 C:\wzorce\Adapter\bin\Debug\Fluency.xml
 C:\wzorce\Adapter\obj\Debug\Adapter.exe
 C:\wzorce\Adapter\obj\Debug\Adapter.pdb
+C:\wzorceRepo\Adapter\bin\Debug\Adapter.exe.config
+C:\wzorceRepo\Adapter\obj\Debug\Adapter.exe
+C:\wzorceRepo\Adapter\obj\Debug\Adapter.pdb
