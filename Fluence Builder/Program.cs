@@ -25,7 +25,7 @@ namespace Fluence_Builder
                 .build();
 
             Console.WriteLine(cat.ToString());
-            PrzykladFluency a = new PrzykladFluency();
+           // PrzykladFluency a = new PrzykladFluency();
             Console.ReadLine();
         }
     }
