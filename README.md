@@ -4,3 +4,4 @@ Gotowe wzorce w projekcie:
 *Builder - klasyczny</br>
 *Singleton</br>
 *Adapter</br>
+*Factory Method</br>

@@ -1,0 +1,5 @@
+C:\wzorceRepo\Factory Method\bin\Debug\Factory Method.exe.config
+C:\wzorceRepo\Factory Method\bin\Debug\Factory Method.exe
+C:\wzorceRepo\Factory Method\bin\Debug\Factory Method.pdb
+C:\wzorceRepo\Factory Method\obj\Debug\Factory Method.exe
+C:\wzorceRepo\Factory Method\obj\Debug\Factory Method.pdb
