@@ -5,3 +5,4 @@ Gotowe wzorce w projekcie:
 *Singleton</br>
 *Adapter</br>
 *Factory Method</br>
+*Monostate</br>
