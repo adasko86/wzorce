@@ -1,0 +1,6 @@
+C:\wzorceRepo\Monostate\bin\Debug\Monostate.exe.config
+C:\wzorceRepo\Monostate\bin\Debug\Monostate.exe
+C:\wzorceRepo\Monostate\bin\Debug\Monostate.pdb
+C:\wzorceRepo\Monostate\obj\Debug\Monostate.csprojResolveAssemblyReference.cache
+C:\wzorceRepo\Monostate\obj\Debug\Monostate.exe
+C:\wzorceRepo\Monostate\obj\Debug\Monostate.pdb
