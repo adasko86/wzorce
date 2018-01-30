@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Method", "Factory M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monostate", "Monostate\Monostate.csproj", "{8DFA9C64-0865-47B7-A344-CB9939D98A2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polecenie(Command)", "Polecenie(Command)\Polecenie(Command).csproj", "{231FD394-415A-4B5A-903B-D06CA1949E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metoda Szablonowa", "Metoda Szablonowa\Metoda Szablonowa.csproj", "{622D1408-833D-49E6-8D50-7B45FDE3C78C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{8DFA9C64-0865-47B7-A344-CB9939D98A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DFA9C64-0865-47B7-A344-CB9939D98A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DFA9C64-0865-47B7-A344-CB9939D98A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231FD394-415A-4B5A-903B-D06CA1949E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231FD394-415A-4B5A-903B-D06CA1949E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231FD394-415A-4B5A-903B-D06CA1949E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231FD394-415A-4B5A-903B-D06CA1949E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622D1408-833D-49E6-8D50-7B45FDE3C78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622D1408-833D-49E6-8D50-7B45FDE3C78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622D1408-833D-49E6-8D50-7B45FDE3C78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622D1408-833D-49E6-8D50-7B45FDE3C78C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

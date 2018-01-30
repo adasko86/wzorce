@@ -1,0 +1,6 @@
+C:\wzorceRepo\Metoda Szablonowa\bin\Debug\Metoda Szablonowa.exe.config
+C:\wzorceRepo\Metoda Szablonowa\bin\Debug\Metoda Szablonowa.exe
+C:\wzorceRepo\Metoda Szablonowa\bin\Debug\Metoda Szablonowa.pdb
+C:\wzorceRepo\Metoda Szablonowa\obj\Debug\Metoda Szablonowa.csprojResolveAssemblyReference.cache
+C:\wzorceRepo\Metoda Szablonowa\obj\Debug\Metoda Szablonowa.exe
+C:\wzorceRepo\Metoda Szablonowa\obj\Debug\Metoda Szablonowa.pdb

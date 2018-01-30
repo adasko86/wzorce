@@ -1,0 +1,6 @@
+C:\wzorceRepo\Polecenie(Command)\bin\Debug\Polecenie(Command).exe.config
+C:\wzorceRepo\Polecenie(Command)\bin\Debug\Polecenie(Command).exe
+C:\wzorceRepo\Polecenie(Command)\bin\Debug\Polecenie(Command).pdb
+C:\wzorceRepo\Polecenie(Command)\obj\Debug\Polecenie(Command).csprojResolveAssemblyReference.cache
+C:\wzorceRepo\Polecenie(Command)\obj\Debug\Polecenie(Command).exe
+C:\wzorceRepo\Polecenie(Command)\obj\Debug\Polecenie(Command).pdb
