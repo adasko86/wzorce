@@ -7,3 +7,4 @@
 *Adapter</br>
 *Factory Method</br>
 *Metoda Szablonowa</br>
+*Polecenie</br>
