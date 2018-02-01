@@ -17,6 +17,27 @@ namespace Polecenie_Command_
 
         static void Main(string[] args)
         {
+            Trener trener = new Trener();
+            Zawodnik z1 = new Zawodnik("Kowalski");
+            Zawodnik z2 = new Zawodnik("Nowak");
+            Zawodnik z3 = new Zawodnik("Brzeczyszczykiewicz");
+ 
+            Bieganie bieganie = new Bieganie(z1);
+            Plywanie plywanie = new Plywanie(z2);
+ 
+            trener.setMode(bieganie);
+            trener.rozkaz();
+            trener.setMode(plywanie);
+            trener.rozkaz();
+            trener.cofnij();
+ 
+            Polecenie []tab = { new Cwiczenie(z3), new Bieganie(z3), new Plywanie(z3)};
+            PelnyTrening pelnyTrening = new PelnyTrening(tab);
+            trener.setMode(pelnyTrening);
+            trener.rozkaz();
+
+
+
             Command commandWlacz = new Wlacz();
             commandWlacz.run();
             Command commandDrukuj = new Drukuj();
