@@ -1,0 +1,6 @@
+C:\wzorceRepo\Facade\bin\Debug\Facade.exe.config
+C:\wzorceRepo\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\wzorceRepo\Facade\bin\Debug\Facade.exe
+C:\wzorceRepo\Facade\bin\Debug\Facade.pdb
+C:\wzorceRepo\Facade\obj\Debug\Facade.exe
+C:\wzorceRepo\Facade\obj\Debug\Facade.pdb

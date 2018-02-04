@@ -8,3 +8,5 @@
 *Factory Method</br>
 *Metoda Szablonowa</br>
 *Polecenie</br>
+*Fasada</br>
+*Mediator</br>

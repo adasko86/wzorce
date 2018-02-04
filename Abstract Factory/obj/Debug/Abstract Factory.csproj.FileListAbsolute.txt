@@ -4,3 +4,9 @@ C:\wzorce\Abstract Factory\bin\Debug\Abstract Factory.pdb
 C:\wzorce\Abstract Factory\obj\Debug\Abstract Factory.csprojResolveAssemblyReference.cache
 C:\wzorce\Abstract Factory\obj\Debug\Abstract Factory.exe
 C:\wzorce\Abstract Factory\obj\Debug\Abstract Factory.pdb
+C:\wzorceRepo\Abstract Factory\bin\Debug\Abstract Factory.exe.config
+C:\wzorceRepo\Abstract Factory\obj\Debug\Abstract Factory.exe
+C:\wzorceRepo\Abstract Factory\obj\Debug\Abstract Factory.pdb
+C:\wzorceRepo\Abstract Factory\obj\Debug\Abstract Factory.csprojResolveAssemblyReference.cache
+C:\wzorceRepo\Abstract Factory\bin\Debug\Abstract Factory.exe
+C:\wzorceRepo\Abstract Factory\bin\Debug\Abstract Factory.pdb

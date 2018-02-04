@@ -1,0 +1,6 @@
+C:\wzorceRepo\Mediator\bin\Debug\Mediator.exe.config
+C:\wzorceRepo\Mediator\bin\Debug\Mediator.exe
+C:\wzorceRepo\Mediator\bin\Debug\Mediator.pdb
+C:\wzorceRepo\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+C:\wzorceRepo\Mediator\obj\Debug\Mediator.exe
+C:\wzorceRepo\Mediator\obj\Debug\Mediator.pdb
