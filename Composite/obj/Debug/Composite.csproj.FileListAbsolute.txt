@@ -1,0 +1,6 @@
+C:\wzorceRepo\Composite\bin\Debug\Composite.exe.config
+C:\wzorceRepo\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+C:\wzorceRepo\Composite\bin\Debug\Composite.exe
+C:\wzorceRepo\Composite\bin\Debug\Composite.pdb
+C:\wzorceRepo\Composite\obj\Debug\Composite.exe
+C:\wzorceRepo\Composite\obj\Debug\Composite.pdb

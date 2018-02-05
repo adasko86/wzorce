@@ -1,12 +1,14 @@
 ### Gotowe wzorce w projekcie:
 
+*Abstract Factory</br>
+*Adapter</br>
+*Composite</br>
+*Facade</br>
+*Factory Method</br>
 *Fluency Builder</br>
 *Builder - klasyczny</br>
-*Singleton</br>
-*Monostate</br>
-*Adapter</br>
-*Factory Method</br>
-*Metoda Szablonowa</br>
-*Polecenie</br>
-*Fasada</br>
 *Mediator</br>
+*Metoda Szablonowa</br>
+*Monostate</br>
+*Polecenie</br>
+*Singleton</br>
