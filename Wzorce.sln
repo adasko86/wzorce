@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{516E512A-0E2C-46EB-8430-5F102BD6BCF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{6EE8587A-377C-46D2-A254-2CC6A9F70234}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{99F17A49-5824-4675-93EB-E64954F7965A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{516E512A-0E2C-46EB-8430-5F102BD6BCF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{516E512A-0E2C-46EB-8430-5F102BD6BCF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{516E512A-0E2C-46EB-8430-5F102BD6BCF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE8587A-377C-46D2-A254-2CC6A9F70234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE8587A-377C-46D2-A254-2CC6A9F70234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE8587A-377C-46D2-A254-2CC6A9F70234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE8587A-377C-46D2-A254-2CC6A9F70234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F17A49-5824-4675-93EB-E64954F7965A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F17A49-5824-4675-93EB-E64954F7965A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F17A49-5824-4675-93EB-E64954F7965A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F17A49-5824-4675-93EB-E64954F7965A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

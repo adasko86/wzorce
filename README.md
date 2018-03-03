@@ -11,4 +11,5 @@
 *Metoda Szablonowa</br>
 *Monostate</br>
 *Polecenie</br>
+*Obserwator</br>
 *Singleton</br>

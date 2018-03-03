@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Polecenie_Command_
+namespace State
 {
-    public interface Command
+    class Program
     {
-        void run();
+        static void Main(string[] args)
+        {
+        }
     }
 }
