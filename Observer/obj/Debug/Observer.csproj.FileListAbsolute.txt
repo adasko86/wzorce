@@ -1,0 +1,6 @@
+C:\wzorceRepo\Observer\bin\Debug\Observer.exe.config
+C:\wzorceRepo\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\wzorceRepo\Observer\bin\Debug\Observer.exe
+C:\wzorceRepo\Observer\bin\Debug\Observer.pdb
+C:\wzorceRepo\Observer\obj\Debug\Observer.exe
+C:\wzorceRepo\Observer\obj\Debug\Observer.pdb
