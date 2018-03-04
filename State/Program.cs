@@ -10,6 +10,17 @@ namespace State
     {
         static void Main(string[] args)
         {
+            Builder builder = new Builder();
+            builder.quickExampleCarriage();
+            Carriage carriage = builder.build();
+            CarriageState state = new CarriageAvailable();
+            carriage.setState(state);
+            state.reportPosition(carriage);
+            state = new CarriageDamaged();
+            state.reportPosition(carriage);
+            state = new CarriageUnavailable();
+            state.reportPosition(carriage);
+            Console.Read();
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\wzorceRepo\State\bin\Debug\State.exe.config
+C:\wzorceRepo\State\bin\Debug\State.exe
+C:\wzorceRepo\State\bin\Debug\State.pdb
+C:\wzorceRepo\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+C:\wzorceRepo\State\obj\Debug\State.exe
+C:\wzorceRepo\State\obj\Debug\State.pdb

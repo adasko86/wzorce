@@ -41,6 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Carriage.cs" />
+    <Compile Include="CarriageAvailable.cs" />
+    <Compile Include="CarriageDamaged.cs" />
+    <Compile Include="CarriageState.cs" />
+    <Compile Include="CarriageUnavailable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
