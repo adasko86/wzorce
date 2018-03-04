@@ -7,3 +7,9 @@ c:\users\adam świątek\documents\visual studio 2013\Projects\Wzorce - Builder\S
 C:\Wzorce\Singleton\bin\Debug\Singleton.exe.config
 C:\Wzorce\Singleton\obj\Debug\Singleton.exe
 C:\Wzorce\Singleton\obj\Debug\Singleton.pdb
+C:\wzorceRepo\Singleton\bin\Debug\Singleton.exe.config
+C:\wzorceRepo\Singleton\obj\Debug\Singleton.exe
+C:\wzorceRepo\Singleton\obj\Debug\Singleton.pdb
+C:\wzorceRepo\Singleton\bin\Debug\Singleton.exe
+C:\wzorceRepo\Singleton\bin\Debug\Singleton.pdb
+C:\wzorceRepo\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
