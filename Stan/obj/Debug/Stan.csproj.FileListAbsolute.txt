@@ -1,0 +1,6 @@
+C:\wzorce\Stan\bin\Debug\Stan.exe.config
+C:\wzorce\Stan\bin\Debug\Stan.exe
+C:\wzorce\Stan\bin\Debug\Stan.pdb
+C:\wzorce\Stan\obj\Debug\Stan.csprojResolveAssemblyReference.cache
+C:\wzorce\Stan\obj\Debug\Stan.exe
+C:\wzorce\Stan\obj\Debug\Stan.pdb
