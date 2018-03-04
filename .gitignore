@@ -1,0 +1,5 @@
+
+*.orig
+State/App.config.orig
+State/bin/Debug/State.exe.config
+*.config
