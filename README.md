@@ -13,3 +13,4 @@
 *Polecenie</br>
 *Obserwator</br>
 *Singleton</br>
+*State</br>
