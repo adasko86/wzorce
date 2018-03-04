@@ -26,6 +26,7 @@ namespace State
     }
 }
 =======
+<<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -41,4 +42,21 @@ namespace State
         }
     }
 }
+=======
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace State
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}
+>>>>>>> 4caa80cb97af2f3fb4fcb5527a83d779863544dc
 >>>>>>> 7ec1e832ebc4bc39dd2c5bde90f55b92b2b52b70
