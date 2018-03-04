@@ -13,4 +13,4 @@
 *Polecenie</br>
 *Obserwator</br>
 *Singleton</br>
-*State sdddd</br>
+*State</br>
