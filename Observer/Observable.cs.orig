@@ -1,0 +1,37 @@
+<<<<<<< HEAD
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Observer
+{
+    public interface Observable {
+
+    void addObservator(Observator obj);
+
+    void deleteObservator(Observator obj);
+
+    void notifyObservator();
+}
+}
+=======
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Observer
+{
+    public interface Observable {
+
+    void addObservator(Observator obj);
+
+    void deleteObservator(Observator obj);
+
+    void notifyObservator();
+}
+}
+>>>>>>> 7ec1e832ebc4bc39dd2c5bde90f55b92b2b52b70

@@ -1,13 +1,33 @@
-Gotowe wzorce w projekcie:
+<<<<<<< HEAD
+### Gotowe wzorce w projekcie:
 
+*Abstract Factory</br>
+*Adapter</br>
+*Composite</br>
+*Facade</br>
+*Factory Method</br>
 *Fluency Builder</br>
 *Builder - klasyczny</br>
-*Singleton</br>
-*Monostate</br>
-*Adapter</br>
-*Factory Method</br>
-<<<<<<< HEAD
+*Mediator</br>
 *Metoda Szablonowa</br>
-=======
 *Monostate</br>
->>>>>>> 01682520371874d2ce926b060cd790664993b9f9
+*Polecenie</br>
+*Obserwator</br>
+*Singleton</br>
+=======
+### Gotowe wzorce w projekcie:
+
+*Abstract Factory</br>
+*Adapter</br>
+*Composite</br>
+*Facade</br>
+*Factory Method</br>
+*Fluency Builder</br>
+*Builder - klasyczny</br>
+*Mediator</br>
+*Metoda Szablonowa</br>
+*Monostate</br>
+*Polecenie</br>
+*Obserwator</br>
+*Singleton</br>
+>>>>>>> 7ec1e832ebc4bc39dd2c5bde90f55b92b2b52b70

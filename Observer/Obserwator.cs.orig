@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Observer
+{
+    public interface Observator
+    {
+        void update(string changeFrom, string changeTo);
+    }
+}
+=======
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Observer
+{
+    public interface Observator
+    {
+        void update(string changeFrom, string changeTo);
+    }
+}
+>>>>>>> 7ec1e832ebc4bc39dd2c5bde90f55b92b2b52b70
