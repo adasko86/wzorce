@@ -13,3 +13,6 @@ C:\wzorceRepo\Singleton\obj\Debug\Singleton.pdb
 C:\wzorceRepo\Singleton\bin\Debug\Singleton.exe
 C:\wzorceRepo\Singleton\bin\Debug\Singleton.pdb
 C:\wzorceRepo\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\wzorce\Singleton\bin\Debug\Singleton.exe
+C:\wzorce\Singleton\bin\Debug\Singleton.pdb
+C:\wzorce\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
