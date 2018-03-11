@@ -6,6 +6,7 @@
 *Facade</br>
 *Factory Method</br>
 *Fluency Builder</br>
+*Flyweight</br>
 *Builder - klasyczny</br>
 *Mediator</br>
 *Metoda Szablonowa</br>
@@ -14,3 +15,4 @@
 *Obserwator</br>
 *Singleton</br>
 *State</br>
+*Strategy</br>
