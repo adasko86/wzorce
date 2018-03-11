@@ -1,0 +1,6 @@
+C:\wzorce\Flyweight\bin\Debug\Flyweight.exe.config
+C:\wzorce\Flyweight\bin\Debug\Flyweight.exe
+C:\wzorce\Flyweight\bin\Debug\Flyweight.pdb
+C:\wzorce\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+C:\wzorce\Flyweight\obj\Debug\Flyweight.exe
+C:\wzorce\Flyweight\obj\Debug\Flyweight.pdb
