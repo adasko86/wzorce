@@ -1,0 +1,6 @@
+C:\wzorce\Bridge\bin\Debug\Bridge.exe.config
+C:\wzorce\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\wzorce\Bridge\bin\Debug\Bridge.exe
+C:\wzorce\Bridge\bin\Debug\Bridge.pdb
+C:\wzorce\Bridge\obj\Debug\Bridge.exe
+C:\wzorce\Bridge\obj\Debug\Bridge.pdb

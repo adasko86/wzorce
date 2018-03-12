@@ -2,6 +2,7 @@
 
 *Abstract Factory</br>
 *Adapter</br>
+*Bridge</br>
 *Composite</br>
 *Facade</br>
 *Factory Method</br>
