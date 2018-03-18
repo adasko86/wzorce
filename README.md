@@ -4,6 +4,7 @@
 *Adapter</br>
 *Bridge</br>
 *Composite</br>
+*Decorator</br>
 *Facade</br>
 *Factory Method</br>
 *Fluency Builder</br>
