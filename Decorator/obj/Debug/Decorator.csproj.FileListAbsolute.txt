@@ -1,0 +1,6 @@
+C:\wzorce\Decorator\bin\Debug\Decorator.exe.config
+C:\wzorce\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\wzorce\Decorator\bin\Debug\Decorator.exe
+C:\wzorce\Decorator\bin\Debug\Decorator.pdb
+C:\wzorce\Decorator\obj\Debug\Decorator.exe
+C:\wzorce\Decorator\obj\Debug\Decorator.pdb

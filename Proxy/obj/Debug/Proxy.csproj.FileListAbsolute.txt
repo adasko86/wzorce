@@ -1,0 +1,6 @@
+C:\wzorce\Proxy\bin\Debug\Proxy.exe.config
+C:\wzorce\Proxy\bin\Debug\Proxy.exe
+C:\wzorce\Proxy\bin\Debug\Proxy.pdb
+C:\wzorce\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\wzorce\Proxy\obj\Debug\Proxy.exe
+C:\wzorce\Proxy\obj\Debug\Proxy.pdb
