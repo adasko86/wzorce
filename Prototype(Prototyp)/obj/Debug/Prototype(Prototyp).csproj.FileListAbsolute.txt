@@ -1,0 +1,5 @@
+C:\wzorce\Prototype(Prototyp)\bin\Debug\Prototype(Prototyp).exe.config
+C:\wzorce\Prototype(Prototyp)\bin\Debug\Prototype(Prototyp).exe
+C:\wzorce\Prototype(Prototyp)\bin\Debug\Prototype(Prototyp).pdb
+C:\wzorce\Prototype(Prototyp)\obj\Debug\Prototype(Prototyp).exe
+C:\wzorce\Prototype(Prototyp)\obj\Debug\Prototype(Prototyp).pdb
